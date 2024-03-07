@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\baitap_w08\baitap_w08\bai1_w08\bin\Debug\bai1_w08.exe.config
+D:\visual studio\BaiTapCodeGym\baitap_w08\baitap_w08\bai1_w08\bin\Debug\bai1_w08.exe
+D:\visual studio\BaiTapCodeGym\baitap_w08\baitap_w08\bai1_w08\bin\Debug\bai1_w08.pdb
+D:\visual studio\BaiTapCodeGym\baitap_w08\baitap_w08\bai1_w08\obj\Debug\bai1_w08.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\baitap_w08\baitap_w08\bai1_w08\obj\Debug\bai1_w08.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\baitap_w08\baitap_w08\bai1_w08\obj\Debug\bai1_w08.exe
+D:\visual studio\BaiTapCodeGym\baitap_w08\baitap_w08\bai1_w08\obj\Debug\bai1_w08.pdb
